@@ -103,6 +103,4 @@ http://localhost:5173
 }
 ```
 
-## What to write in CV
 
-**TaskFlow Fullstack** — Built a fullstack task management application using Java, Spring Boot, Spring Data JPA, H2, React and REST APIs. Implemented CRUD operations, validation, search/filter functionality, statistics endpoint and unit tests following a clean layered architecture.
