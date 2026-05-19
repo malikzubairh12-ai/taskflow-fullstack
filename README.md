@@ -1,7 +1,6 @@
 # TaskFlow Fullstack
 
-A fullstack task management application built as a portfolio project for Java Backend / Werkstudent applications.
-
+Personal fullstack project to practice backend and frontend development using Spring Boot and React.
 ## Tech Stack
 
 **Backend**
