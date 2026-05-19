@@ -1,0 +1,10 @@
+body { margin: 0; font-family: Arial, sans-serif; background: #f5f7fb; color: #1f2937; }
+.container { max-width: 1000px; margin: 0 auto; padding: 32px; }
+h1 { margin-bottom: 4px; } .subtitle { color: #6b7280; }
+.stats { display: grid; grid-template-columns: repeat(4,1fr); gap: 12px; margin: 24px 0; }
+.stats div, .card { background: white; border-radius: 16px; padding: 18px; box-shadow: 0 8px 24px rgba(0,0,0,.06); }
+.form { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 24px; }
+input, select, button { padding: 10px; border-radius: 10px; border: 1px solid #d1d5db; }
+button { cursor: pointer; border: none; background: #111827; color: white; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(240px,1fr)); gap: 16px; }
+.card button { margin-top: 12px; }
